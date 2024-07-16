@@ -8,6 +8,36 @@ Our laboratory focuses on a multidisciplinary approach. First, we capture microb
  - 📫 Email: Dave.Kang@USDA.gov
  - 🌐 Website: https://www.ars.usda.gov/people-locations/person/?person-id=55443 
 
+
+## Laboratory Members
+  
+## Permanant Members
+**David (Dave) Kang, PhD**  
+Principal Investigator  
+<img src="https://github.com/user-attachments/assets/05eef05f-8ba5-4616-8693-c86a413d4160" width="250">
+  
+  
+**Joe Ringbauer Jr., PhD**  
+Laboratory Manager  
+<img src="https://github.com/user-attachments/assets/c95b0f80-614f-4fdf-b567-fe94e12b639a" width="250">
+
+
+## Postdoctoral Fellows
+
+**Rishi Bhandari, PhD**  
+<img src="https://github.com/user-attachments/assets/5bc064f5-9d82-44c5-9264-7afe41e6c6e4" width="250">  
+  
+  
+**Katharine (Kate) Eastman, PhD**  
+<img src="https://github.com/user-attachments/assets/2ea1454d-54b3-4906-9348-4f7beb83960a" width="250">  
+
+
+
+
+
+
+
+
 <!--
 **DavidKang-USDA/DavidKang-USDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am Dave Kang, a USDA ARS scientist.
