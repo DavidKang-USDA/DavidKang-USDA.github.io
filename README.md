@@ -97,11 +97,13 @@ Email: hj532@msstate.edu
 <br/>
 
 **Eliot Bitting, MA**  
+Computational Research Intern  
 Email: hj532@msstate.edu  
 <img src="https://github.com/user-attachments/assets/ba6dec18-0ad7-4c01-bd2e-d53aa01d124b" width="250">  
 <br/>
 
 **Jacky Weng**  
+Laboratory Intern  
 <img src="https://github.com/user-attachments/assets/3c3c42b0-ba08-4a19-ae1f-4c0aa94c72d2" width="250">    
 <br/>
 <br/>
