@@ -74,7 +74,7 @@ My research focuses on mechanisms underlying microbial influences on Drosophila 
 ## Research Assistants  
   
 **Zoe Wills**  
-Laboratory Assistant
+Laboratory Assistant  
 Email: Zoe.Wills@usda.gov  
 <img src="https://github.com/user-attachments/assets/2cb89245-92af-426c-9d31-48154bfdbf45" width="250">  
 <br/>
