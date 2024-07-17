@@ -55,7 +55,7 @@ My research focuses on developing a cross-kingdom genome editing toolkit using A
 
 ## University of Missouri Graduate Students  
 
-**Kaihre Brightwater**
+**Kaihre Brightwater**  
 PhD Student, Division of Biological Sciences  
 Email: kbgbg@missouri.edu     
 <img src="https://github.com/user-attachments/assets/793ee54d-52ba-4fea-be86-1a5b5fa9133d" width="250">    
