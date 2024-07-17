@@ -53,17 +53,17 @@ My research focuses on developing a cross-kingdom genome editing toolkit using A
 
 
 
-## University of Missouri Graduate Students  
+## Graduate Students  
 
 **Kaihre Brightwater**  
-PhD Student, Division of Biological Sciences  
+PhD Student, University of Missouri Division of Biological Sciences  
 Email: kbgbg@missouri.edu     
 <img src="https://github.com/user-attachments/assets/793ee54d-52ba-4fea-be86-1a5b5fa9133d" width="250">    
 I am interested in documenting the metabolic conversation between fruit flies and the bacteria that make up their microbiome.    
 <br/>
   
 **Sanchita Das, MS**  
-PhD Student, Division of Biological Sciences  
+PhD Student, University of Missouri Division of Biological Sciences  
 Email: sdgqw@missouri.edu   
 <img src="https://github.com/user-attachments/assets/d28351f8-a3d8-4df6-a5a8-bbf9eeebbc52" width="250">  
 My research focuses on mechanisms underlying microbial influences on Drosophila melanogaster phenotype.  
