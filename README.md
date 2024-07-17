@@ -113,7 +113,7 @@ Laboratory Intern
  ## Past Members  
 
  **Alexandra Boyd**  
- Laboratory Assistant / Biochemistry student at University Of Missourri
+ Laboratory Assistant / Biochemistry student at University Of Missourri  
 <img src="https://github.com/user-attachments/assets/98fc0f24-b83d-4abd-9918-f68962fe42de" width="250">   
 <br/>
 
