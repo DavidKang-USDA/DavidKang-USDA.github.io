@@ -98,7 +98,7 @@ Email: hj532@msstate.edu
 
 **Eliot Bitting, MA**  
 Computational Research Intern  
-Email: ecbitting@mail.missouri.edu
+Email: ecbitting@mail.missouri.edu  
 <img src="https://github.com/user-attachments/assets/ba6dec18-0ad7-4c01-bd2e-d53aa01d124b" width="250">  
 <br/>
 
@@ -139,8 +139,19 @@ Wynna Faye Elbert Award Recipient
 <br/>
 <br/>
 
-
-
+<img src="https://github.com/user-attachments/assets/a1a99d66-4225-40d2-8d73-37e3def8d4a1" height="200">
+<img src="https://github.com/user-attachments/assets/a81996cc-aacf-4ddb-8580-6a8d4d648a7c" height="200">
+<img src="https://github.com/user-attachments/assets/fa24f6ba-12f1-4667-85cd-c4e8888af727" height="200">
+<img src="https://github.com/user-attachments/assets/4076226e-bf03-4c75-9f04-ef1a3bc4b827" height="200">
+<img src="https://github.com/user-attachments/assets/a74487f7-1277-4c71-a7ee-5cec90d3c8b7" height="200">
+<img src="https://github.com/user-attachments/assets/b54e51f6-96ca-4633-ba32-877346125ca4" height="200">
+<img src="https://github.com/user-attachments/assets/459a8af9-b144-4779-8c34-11e3e338131e" height="200">
+<img src="https://github.com/user-attachments/assets/da27a16e-412b-4f14-b6bd-a3c2fe2e17ff" height="200">
+<img src="https://github.com/user-attachments/assets/4498dca3-7024-45c4-8db4-dd297b356351" height="200">
+<img src="https://github.com/user-attachments/assets/ed63fc55-de60-42f9-b778-9a7250e73dfd" height="200">
+<img src="https://github.com/user-attachments/assets/11600859-cc75-4ef9-acd3-3cfe856f59cb" height="200">
+<img src="https://github.com/user-attachments/assets/c605e2db-fded-4590-b696-1a5cd6b7012c" height="200">
+<img src="https://github.com/user-attachments/assets/9d6d0b67-9292-4a97-b9fb-1a8748cfe6d3" height="200">
 
 
 
