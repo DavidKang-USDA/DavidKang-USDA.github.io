@@ -98,7 +98,7 @@ Email: hj532@msstate.edu
 
 **Eliot Bitting, MA**  
 Computational Research Intern  
-Email: hj532@msstate.edu  
+Email: ecbitting@mail.missouri.edu
 <img src="https://github.com/user-attachments/assets/ba6dec18-0ad7-4c01-bd2e-d53aa01d124b" width="250">  
 <br/>
 
