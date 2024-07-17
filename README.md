@@ -27,7 +27,7 @@ Email: Joseph.Ringbauer@usda.gov
 <br/>
 ## Postdoctoral Fellows
 
-**Rishi Bhandari, PhD**
+**Rishi Bhandari, PhD**  
 SciNET AI COE Postdoctoral Fellow  
 Email: Rishi.Bhandari@usda.gov  
 <img src="https://github.com/user-attachments/assets/5bc064f5-9d82-44c5-9264-7afe41e6c6e4" width="250">   
