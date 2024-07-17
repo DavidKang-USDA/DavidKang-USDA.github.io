@@ -91,7 +91,7 @@ Email: j.o.olumeh2@newcastle.ac.uk
 ## Interns  
   
 **Himani Joshi**  
-PhD Student at Mississippi State University (Peixin Fan Laboratory)  
+USDA SciNet Intern / PhD Student at Mississippi State University (Peixin Fan Laboratory)  
 Email: hj532@msstate.edu  
 <img src="https://github.com/user-attachments/assets/95eec39d-08c1-440b-be95-1763e6626896" width="250">  
 <br/>
