@@ -13,7 +13,7 @@ Our laboratory focuses on a multidisciplinary approach. First, we capture microb
   
 ## Permanant Members
 **David (Dave) Kang, PhD**  
-Principal Investigator / USDA ARS Research Molecular Biologist
+Principal Investigator / USDA ARS Research Molecular Biologist  
 Email: Dave.Kang@usda.gov  
 <img src="https://github.com/user-attachments/assets/05eef05f-8ba5-4616-8693-c86a413d4160" width="250">  
 <br/>
