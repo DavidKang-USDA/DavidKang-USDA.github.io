@@ -96,7 +96,7 @@ Email: hj532@msstate.edu
 <img src="https://github.com/user-attachments/assets/95eec39d-08c1-440b-be95-1763e6626896" width="250">  
 <br/>
 
-**Eliot Bitting, MS**  
+**Eliot Bitting, MA**  
 Email: hj532@msstate.edu  
 <img src="https://github.com/user-attachments/assets/ba6dec18-0ad7-4c01-bd2e-d53aa01d124b" width="250">  
 <br/>
