@@ -74,13 +74,13 @@ My research focuses on mechanisms underlying microbial influences on Drosophila 
 ## Research Assistants  
   
 **Zoe Wills**  
-Laboratory Assistant  
+Laboratory Assistant / MS Student at Tennessee State University
 Email: Zoe.Wills@usda.gov  
 <img src="https://github.com/user-attachments/assets/2cb89245-92af-426c-9d31-48154bfdbf45" width="250">  
 <br/>
 
 **Julius Olumeh**  
-PhD Student  
+Laboratory Assistant / PhD Student at Newcastle University    
 Email: j.o.olumeh2@newcastle.ac.uk  
 <img src="https://github.com/user-attachments/assets/08b04da8-a9f4-41d9-9fff-a895bba3e97d" width="250">  
 <br/>
@@ -113,7 +113,7 @@ Laboratory Intern
  ## Past Members  
 
  **Alexandra Boyd**  
- Laboratory Assistant  
+ Laboratory Assistant / Biochemistry student at University Of Missourri
 <img src="https://github.com/user-attachments/assets/98fc0f24-b83d-4abd-9918-f68962fe42de" width="250">   
 <br/>
 
