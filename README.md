@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome to the USDA ARS BCIRL Insect Microbiome Laboratory!
 
 The Kang laboratory is a part of the USDA Agricultural Research Service Biological Control of Insects Research Laboratory and is affiliated with the Division of Biological Sciences, Division of Plant Sciences and Technology, the Digital Agriculture Research Extension Center, and the Grape and Wine Institute at the University of Missouri. We investigate the utilization of microbiomes in the control of insect pests. Our interests are the environmental influences and within community interactions of microbiomes, host-microbe interactions, and their downstream impact on host immunity, metabolism, reproduction, and survival. We value diversity and inclusion, honest communication, and aim to foster an environment focused on the development and success of our students.
 
@@ -7,6 +7,14 @@ Our laboratory focuses on a multidisciplinary approach. First, we capture microb
  - 🔭 I’m currently working and looking to collaborate on projects utilizing insect viruses, bacteria, or fungi in the control of agricultural pests.
  - 📫 Laboratory Contact: Dave.Kang@usda.gov
  - 🌐 Website: https://www.ars.usda.gov/people-locations/person/?person-id=55443 
+<br/>
+<br/>
+<img src="https://github.com/user-attachments/assets/645fff30-396f-4409-aa24-01f81ca6ad23" height="275">  
+<img src="https://github.com/user-attachments/assets/2d61db6a-c60a-49e8-9721-f70437cbe816" height="275">  
+<img src="https://github.com/user-attachments/assets/f71fda74-21fe-4ee3-9127-521357bdf571" height="275">  
+<br/>
+<br/>
+<br/>  
 
 
 ## Laboratory Members
