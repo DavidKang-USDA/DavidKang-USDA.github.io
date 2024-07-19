@@ -10,7 +10,7 @@ Our laboratory focuses on a multidisciplinary approach. First, we capture microb
 
 <br/>
 <br/>
-<img src="https://github.com/user-attachments/assets/645fff30-396f-4409-aa24-01f81ca6ad23" height="275"><img src="https://github.com/user-attachments/assets/2d61db6a-c60a-49e8-9721-f70437cbe816" height="275"><img src="https://github.com/user-attachments/assets/648ea8cc-5ff4-461e-a3f7-338334ea83d2" height="275">
+<img src="https://github.com/user-attachments/assets/645fff30-396f-4409-aa24-01f81ca6ad23" height="250"><img src="https://github.com/user-attachments/assets/2d61db6a-c60a-49e8-9721-f70437cbe816" height="250"><img src="https://github.com/user-attachments/assets/648ea8cc-5ff4-461e-a3f7-338334ea83d2" height="250">
 <br/>
 <br/>
 <br/>  
