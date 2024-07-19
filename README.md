@@ -10,7 +10,7 @@ Our laboratory focuses on a multidisciplinary approach. First, we capture microb
 
 <br/>
 <br/>
-<img src="https://github.com/user-attachments/assets/645fff30-396f-4409-aa24-01f81ca6ad23" height="250"><img src="https://github.com/user-attachments/assets/2d61db6a-c60a-49e8-9721-f70437cbe816" height="250"><img src="https://github.com/user-attachments/assets/648ea8cc-5ff4-461e-a3f7-338334ea83d2" height="250">
+<img src="https://github.com/user-attachments/assets/46be7964-8e3b-41b4-9eb8-89ebf3b73f16" height="270"><img src="https://github.com/user-attachments/assets/2d61db6a-c60a-49e8-9721-f70437cbe816" height="270"><img src="https://github.com/user-attachments/assets/e2ed4b38-24c7-4d74-9bd7-ea07edd4af4e" height="270">
 <br/>
 <br/>
 <br/>  
@@ -145,10 +145,10 @@ Wynna Faye Elbert Award Recipient
 <br/>
 <br/>
 <br/>
-
-<img src="https://github.com/user-attachments/assets/a1a99d66-4225-40d2-8d73-37e3def8d4a1" height="200">
-<img src="https://github.com/user-attachments/assets/a81996cc-aacf-4ddb-8580-6a8d4d648a7c" height="200">
+<img src="https://github.com/user-attachments/assets/c538f24a-ab2e-40b6-84f2-edf0ef709edb" height="200">
+<img src="https://github.com/user-attachments/assets/648ea8cc-5ff4-461e-a3f7-338334ea83d2" height="200">
 <img src="https://github.com/user-attachments/assets/fa24f6ba-12f1-4667-85cd-c4e8888af727" height="200">
+<img src="https://github.com/user-attachments/assets/2a576ad9-5a7e-4559-bab6-71e629b7c0bf" height="200">
 <img src="https://github.com/user-attachments/assets/4076226e-bf03-4c75-9f04-ef1a3bc4b827" height="200">
 <img src="https://github.com/user-attachments/assets/a74487f7-1277-4c71-a7ee-5cec90d3c8b7" height="200">
 <img src="https://github.com/user-attachments/assets/b54e51f6-96ca-4633-ba32-877346125ca4" height="200">
