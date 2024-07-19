@@ -9,9 +9,9 @@ Our laboratory focuses on a multidisciplinary approach. First, we capture microb
  - 🌐 Website: https://www.ars.usda.gov/people-locations/person/?person-id=55443 
 <br/>
 <br/>
-<img src="https://github.com/user-attachments/assets/645fff30-396f-4409-aa24-01f81ca6ad23" height="200">  
-<img src="https://github.com/user-attachments/assets/2d61db6a-c60a-49e8-9721-f70437cbe816" height="200">  
-<img src="https://github.com/user-attachments/assets/f71fda74-21fe-4ee3-9127-521357bdf571" height="200">  
+<img src="https://github.com/user-attachments/assets/645fff30-396f-4409-aa24-01f81ca6ad23" height="200">
+<img src="https://github.com/user-attachments/assets/2d61db6a-c60a-49e8-9721-f70437cbe816" height="200">
+<img src="https://github.com/user-attachments/assets/f71fda74-21fe-4ee3-9127-521357bdf571" height="200">
 <br/>
 <br/>
 <br/>  
