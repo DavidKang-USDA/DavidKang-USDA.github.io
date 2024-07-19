@@ -117,7 +117,7 @@ Laboratory Intern
 <br/>
 
 
- ## Past Members  
+## Past Members  
 
  **Alexandra Boyd**  
  Laboratory Assistant / Biochemistry student at University Of Missourri  
@@ -132,8 +132,7 @@ Laboratory Intern
 <br/>
 
 
- 
- ## Past Members - Career Awareness Related Experience (CARES) Program  
+## Past Members - Career Awareness Related Experience (CARES) Program  
 
  **Iris Ma**  
 Wynna Faye Elbert Award Recipient  
@@ -163,14 +162,3 @@ Wynna Faye Elbert Award Recipient
 
 
 
-
-
-
-
-<!--
-**DavidKang-USDA/DavidKang-USDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am Dave Kang, a USDA ARS scientist.
-
-- 🔭 I’m currently working and looking to collaborate on projects utilizing insect microbiomes in the control of agricultural pests.
-- 📫 Reach me at Dave.Kang@USDA.gov
--->
