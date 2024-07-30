@@ -113,6 +113,12 @@ Email: ecbitting@mail.missouri.edu
 Laboratory Intern  
 <img src="https://github.com/user-attachments/assets/3c3c42b0-ba08-4a19-ae1f-4c0aa94c72d2" width="250">    
 <br/>
+
+**Leigha Patton**  
+USDA HACU Intern  
+<img src="https://github.com/user-attachments/assets/26e31613-ffda-4c3c-921d-6aca396167fb" width="250">  
+I am an undergraduate Pre-Vet student at the University of Missouri primarily interested in small animal, wildlife, and avian medicine or veterinary wildlife research.  
+<br/>
 <br/>
 <br/>
 
