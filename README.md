@@ -47,14 +47,6 @@ Email: Katharine.Eastman@usda.gov
 <img src="https://github.com/user-attachments/assets/2ea1454d-54b3-4906-9348-4f7beb83960a" width="250">  
 My research focuses on developing a bioinformatic-based platform that utilizes shotgun metagenome sequence data to create pan-genome assemblies.  
 <br/>
-    
-**Joyce Marumo, PhD**  
-SciNET AI COE Postdoctoral Fellow  
-Co-advised with Dr. Paula Chen, Dr. Bethany Redel, Dr. Jacob Washburn, Dr. Norman Best, and Dr. Adam R. Rivers  
-Email: joyce.marumo@usda.gov  
-<img src="https://github.com/user-attachments/assets/35615750-0899-48bc-80db-faf52339483b" width="250">  
-My research focuses on developing a cross-kingdom genome editing toolkit using AI.  
-<br/>
 <br/>
 <br/>
 
@@ -133,6 +125,14 @@ Email: Zoe.Wills@usda.gov
   **Laurie Agosto**  
  Visiting PhD Student at University of Missourri (Pamela Brown Laboratory)  
 <img src="https://github.com/user-attachments/assets/c818e7ef-7d7e-46d5-8036-b30602a692c8" width="250">   
+<br/>
+
+**Joyce Marumo, PhD**  
+SciNET AI COE Postdoctoral Fellow  
+Co-advised with Dr. Paula Chen, Dr. Bethany Redel, Dr. Jacob Washburn, Dr. Norman Best, and Dr. Adam R. Rivers  
+Email: joyce.marumo@usda.gov  
+<img src="https://github.com/user-attachments/assets/35615750-0899-48bc-80db-faf52339483b" width="250">  
+My research focuses on developing a cross-kingdom genome editing toolkit using AI.  
 <br/>
 <br/>
 <br/>
