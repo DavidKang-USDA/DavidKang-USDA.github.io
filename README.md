@@ -1,6 +1,6 @@
 ## Welcome to the USDA ARS BCIRL Insect Microbiome Laboratory!
 
-The Kang laboratory is a part of the USDA Agricultural Research Service Biological Control of Insects Research Laboratory and is affiliated with the Division of Biological Sciences, Division of Plant Sciences and Technology, the Digital Agriculture Research Extension Center, and the Grape and Wine Institute at the University of Missouri. We investigate the utilization of microbiomes in the control of insect pests. Our interests are the environmental influences and within community interactions of microbiomes, host-microbe interactions, and their downstream impact on host immunity, metabolism, reproduction, and survival. We value diversity and inclusion, honest communication, and aim to foster an environment focused on the development and success of our students.
+The Kang laboratory is a part of the USDA Agricultural Research Service Biological Control of Insects Research Laboratory and is affiliated with the Division of Biological Sciences, Division of Plant Sciences and Technology, the Digital Agriculture Research Extension Center, and the Grape and Wine Institute at the University of Missouri. We investigate the utilization of microbiomes in the control of insect pests. Our interests are the environmental influences and within community interactions of microbiomes, host-microbe interactions, and their downstream impact on host immunity, metabolism, reproduction, and survival. We value team work, honest communication, and aim to foster an environment focused on the development and success of our students.
 
 Our laboratory focuses on a multidisciplinary approach. First, we capture microbial and host variation in the wild. Next, we use statistical modeling to generate hypotheses.  We then use the genetically tractable model organism Drosophila melanogaster to test and refine these hypotheses. The knowledge gained from these experiments is then utilized to control agricultural pests, such as the berry pest, Spotted Wing Drosophila (Drosophila suzukii). 
 
@@ -74,7 +74,7 @@ My research focuses on mechanisms underlying microbial influences on Drosophila 
 
 **Julius Olumeh**  
 Laboratory Assistant / PhD Student at Newcastle University    
-Email: j.o.olumeh2@newcastle.ac.uk  
+Email: Julius.Olumeh@usda.gov   
 <img src="https://github.com/user-attachments/assets/08b04da8-a9f4-41d9-9fff-a895bba3e97d" width="250">  
 <br/>
 <br/>
@@ -89,17 +89,6 @@ Email: hj532@msstate.edu
 <img src="https://github.com/user-attachments/assets/95eec39d-08c1-440b-be95-1763e6626896" width="250">  
 <br/>
 
-**Eliot Bitting, MA**  
-Computational Research Intern  
-Email: ecbitting@mail.missouri.edu  
-<img src="https://github.com/user-attachments/assets/ba6dec18-0ad7-4c01-bd2e-d53aa01d124b" width="250">  
-<br/>
-
-**Jacky Weng**  
-Laboratory Intern  
-<img src="https://github.com/user-attachments/assets/3c3c42b0-ba08-4a19-ae1f-4c0aa94c72d2" width="250">    
-<br/>
-
 **Leigha Patton**  
 USDA HACU Intern  
 <img src="https://github.com/user-attachments/assets/26e31613-ffda-4c3c-921d-6aca396167fb" width="250">  
@@ -110,29 +99,36 @@ I am an undergraduate Pre-Vet student at the University of Missouri primarily in
 
 
 ## Past Members  
-
-**Zoe Wills**  
-Laboratory Assistant / MS Student at Tennessee State University  
-Email: Zoe.Wills@usda.gov  
-<img src="https://github.com/user-attachments/assets/2cb89245-92af-426c-9d31-48154bfdbf45" width="250">  
+  
+**Laurie Agosto**  
+Visiting PhD Student at University of Missourri (Pamela Brown Laboratory)  
+<img src="https://github.com/user-attachments/assets/c818e7ef-7d7e-46d5-8036-b30602a692c8" width="250">   
+<br/>
+  
+**Eliot Bitting, MA**  
+Computational Research Intern  
+<img src="https://github.com/user-attachments/assets/ba6dec18-0ad7-4c01-bd2e-d53aa01d124b" width="250">  
 <br/>
    
  **Alex Boyd**  
  Laboratory Assistant / Biochemistry student at University Of Missourri  
 <img src="https://github.com/user-attachments/assets/98fc0f24-b83d-4abd-9918-f68962fe42de" width="250">   
 <br/>
-
-  **Laurie Agosto**  
- Visiting PhD Student at University of Missourri (Pamela Brown Laboratory)  
-<img src="https://github.com/user-attachments/assets/c818e7ef-7d7e-46d5-8036-b30602a692c8" width="250">   
-<br/>
-
+ 
 **Joyce Marumo, PhD**  
 SciNET AI COE Postdoctoral Fellow  
 Co-advised with Dr. Paula Chen, Dr. Bethany Redel, Dr. Jacob Washburn, Dr. Norman Best, and Dr. Adam R. Rivers  
-Email: joyce.marumo@usda.gov  
-<img src="https://github.com/user-attachments/assets/35615750-0899-48bc-80db-faf52339483b" width="250">  
-My research focuses on developing a cross-kingdom genome editing toolkit using AI.  
+<img src="https://github.com/user-attachments/assets/35615750-0899-48bc-80db-faf52339483b" width="250">   
+<br/> 
+  
+**Jacky Weng**  
+Laboratory Intern  
+<img src="https://github.com/user-attachments/assets/3c3c42b0-ba08-4a19-ae1f-4c0aa94c72d2" width="250">    
+<br/>
+
+**Zoe Wills**  
+Laboratory Assistant / MS Student at Tennessee State University   
+<img src="https://github.com/user-attachments/assets/2cb89245-92af-426c-9d31-48154bfdbf45" width="250">  
 <br/>
 <br/>
 <br/>
