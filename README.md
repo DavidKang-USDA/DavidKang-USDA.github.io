@@ -75,16 +75,6 @@ My research focuses on mechanisms underlying microbial influences on Drosophila 
 <br/>
 <br/>
 <br/>  
-    
-## Research Assistants  
-
-**Julius Olumeh**  
-Laboratory Assistant / PhD Student at Newcastle University    
-Email: Julius.Olumeh@usda.gov   
-<img src="https://github.com/user-attachments/assets/08b04da8-a9f4-41d9-9fff-a895bba3e97d" width="250">  
-<br/>
-<br/>
-<br/>
 
 
 ## Interns  
@@ -94,15 +84,20 @@ USDA SciNet Intern / PhD Student at Mississippi State University (Peixin Fan Lab
 Email: hj532@msstate.edu  
 <img src="https://github.com/user-attachments/assets/95eec39d-08c1-440b-be95-1763e6626896" width="250">  
 <br/>
-
-**Leigha Patton**  
-USDA HACU Intern  
-<img src="https://github.com/user-attachments/assets/26e31613-ffda-4c3c-921d-6aca396167fb" width="250">  
-I am an undergraduate Pre-Vet student at the University of Missouri primarily interested in small animal, wildlife, and avian medicine or veterinary wildlife research.  
-<br/>
 <br/>
 <br/>
 
+## Career Awareness Related Experience (CARES) Program  
+
+**Christian Fair**  
+<img src="https://github.com/user-attachments/assets/699bd4c7-f2f3-48ca-9075-4456de80d86d" width="250">   
+<br/>
+
+**Owen Terry**  
+<img src="https://github.com/user-attachments/assets/cacf8b8f-f628-4c5e-a454-6a69ffcf66d4" width="250">  
+<br/>
+<br/>
+<br/>
 
 ## Past Members  
   
@@ -126,7 +121,17 @@ SciNET AI COE Postdoctoral Fellow
 Co-advised with Dr. Paula Chen, Dr. Bethany Redel, Dr. Jacob Washburn, Dr. Norman Best, and Dr. Adam R. Rivers  
 <img src="https://github.com/user-attachments/assets/35615750-0899-48bc-80db-faf52339483b" width="250">   
 <br/> 
-  
+
+**Julius Olumeh**  
+Laboratory Assistant / PhD Student at Newcastle University     
+<img src="https://github.com/user-attachments/assets/08b04da8-a9f4-41d9-9fff-a895bba3e97d" width="250">  
+<br/>
+ 
+**Leigha Patton**  
+USDA HACU Intern  
+<img src="https://github.com/user-attachments/assets/26e31613-ffda-4c3c-921d-6aca396167fb" width="250">
+<br/> 
+
 **Jacky Weng**  
 Laboratory Intern  
 <img src="https://github.com/user-attachments/assets/3c3c42b0-ba08-4a19-ae1f-4c0aa94c72d2" width="250">    
