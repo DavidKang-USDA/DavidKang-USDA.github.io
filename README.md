@@ -168,10 +168,9 @@ Wynna Faye Elbert Award Recipient
 <img src="https://github.com/user-attachments/assets/da27a16e-412b-4f14-b6bd-a3c2fe2e17ff" height="200">
 <img src="https://github.com/user-attachments/assets/4498dca3-7024-45c4-8db4-dd297b356351" height="200">
 <img src="https://github.com/user-attachments/assets/ed63fc55-de60-42f9-b778-9a7250e73dfd" height="200">
-<img src="https://github.com/user-attachments/assets/11600859-cc75-4ef9-acd3-3cfe856f59cb" height="200">
 <img src="https://github.com/user-attachments/assets/c605e2db-fded-4590-b696-1a5cd6b7012c" height="200">
+<img src="https://github.com/user-attachments/assets/6465fc16-129e-4f99-87ee-eba9833f222a" height="200">
+<img src="https://github.com/user-attachments/assets/5566a199-9ed4-45a5-a452-0fef909a2080b" height="200">
+<img src="https://github.com/user-attachments/assets/5d590f08-8b07-4edd-a3a5-e5a0ae8f0aa2" height="200">
 <img src="https://github.com/user-attachments/assets/9d6d0b67-9292-4a97-b9fb-1a8748cfe6d3" height="200">
-
-
-
-
+<img src="https://github.com/user-attachments/assets/e2013d0b-1fe7-409c-bbba-d66a163d096b" height="200">
