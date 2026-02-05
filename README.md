@@ -2,7 +2,7 @@
 
 The Kang laboratory is a part of the USDA Agricultural Research Service Biological Control of Insects Research Laboratory and is affiliated with the Division of Biological Sciences, Division of Plant Sciences and Technology, the Digital Agriculture Research Extension Center, and the Grape and Wine Institute at the University of Missouri. We investigate the utilization of microbiomes in the control of insect pests. Our interests are the environmental influences and within community interactions of microbiomes, host-microbe interactions, and their downstream impact on host immunity, metabolism, reproduction, and survival. We value team work, honest communication, and aim to foster an environment focused on the development and success of our students.
 
-Our laboratory focuses on a multidisciplinary approach. First, we capture microbial and host variation in the wild. Next, we use statistical modeling to generate hypotheses.  We then use the genetically tractable model organism Drosophila melanogaster to test and refine these hypotheses. The knowledge gained from these experiments is then utilized to control agricultural pests, such as the berry pest, Spotted Wing Drosophila (Drosophila suzukii). 
+Our laboratory focuses on a multidisciplinary approach. First, we capture microbial and host variation in the wild. Next, we use statistical modeling to generate hypotheses.  We then test and refine these hypotheses in the laboratory. We then apply this knowledge towards the development of new methods of pest control such as microbial sprays and gene drives. The knowledge gained from these experiments is then utilized to control agricultural pests, such as the grape and berry pests, Spotted Wing Drosophila (Drosophila suzukii) and Spotted Lanternfly (Lycorma delicatula). 
 
  - 🔭 I’m currently working and looking to collaborate on projects utilizing insect viruses, bacteria, or fungi in the control of agricultural pests.
  - 📫 Laboratory Contact: Dave.Kang@usda.gov
@@ -87,17 +87,7 @@ Email: hj532@msstate.edu
 <br/>
 <br/>
 
-## Career Awareness Related Experience (CARES) Program  
 
-**Christian Fair**  
-<img src="https://github.com/user-attachments/assets/699bd4c7-f2f3-48ca-9075-4456de80d86d" width="250">   
-<br/>
-
-**Owen Terry**  
-<img src="https://github.com/user-attachments/assets/cacf8b8f-f628-4c5e-a454-6a69ffcf66d4" width="250">  
-<br/>
-<br/>
-<br/>
 
 ## Past Members  
   
@@ -154,6 +144,15 @@ Wynna Faye Elbert Award Recipient
 
 **Jeffrey (Cooper) Gregg**  
 <img src="https://github.com/user-attachments/assets/e5192374-28a6-43e6-8adf-feade16a7f9a" width="250">  
+<br/>
+
+**Christian Fair**  
+<img src="https://github.com/user-attachments/assets/699bd4c7-f2f3-48ca-9075-4456de80d86d" width="250">   
+<br/>
+
+**Owen Terry**  
+Wynna Faye Elbert Award Recipient  
+<img src="https://github.com/user-attachments/assets/cacf8b8f-f628-4c5e-a454-6a69ffcf66d4" width="250">  
 <br/>
 <br/>
 <br/>
