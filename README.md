@@ -1,6 +1,6 @@
 ## Welcome to the USDA ARS BCIRL Insect Microbiome Laboratory!
 
-The Kang laboratory is a part of the USDA Agricultural Research Service Biological Control of Insects Research Laboratory and is affiliated with the Division of Biological Sciences, Division of Plant Sciences and Technology, the Digital Agriculture Research Extension Center, and the Grape and Wine Institute at the University of Missouri. We investigate the utilization of microbiomes in the control of insect pests. Our interests are the environmental influences and within community interactions of microbiomes, host-microbe interactions, and their downstream impact on host immunity, metabolism, reproduction, and survival. We value team work, honest communication, and aim to foster an environment focused on the development and success of our students.
+The Kang laboratory is a part of the USDA Agricultural Research Service Biological Control of Insects Research Laboratory and is affiliated with the Division of Biological Sciences, Division of Plant Sciences and Technology, the Digital Agriculture Research Extension Center, and the Grape and Wine Institute at the University of Missouri. We investigate the utilization of novel genetic technologies as well as microbiomes in the control of insect pests. Our interests are 1) utilizing molecular and genetic tools to control insect pests, and 2) how environmental influences and within community interactions of microbiomes, host insect-microbe interactions, and their downstream impact on host immunity, metabolism, reproduction, and survival. We value team work, honest communication, and aim to foster an environment focused on the development and success of our trainees and students.
 
 Our laboratory focuses on a multidisciplinary approach. First, we capture microbial and host variation in the wild. Next, we use statistical modeling to generate hypotheses.  We then test and refine these hypotheses in the laboratory. We then apply this knowledge towards the development of new methods of pest control such as microbial sprays and gene drives. The knowledge gained from these experiments is then utilized to control agricultural pests, such as the grape and berry pests, Spotted Wing Drosophila (Drosophila suzukii) and Spotted Lanternfly (Lycorma delicatula). 
 
@@ -79,15 +79,21 @@ My research focuses on mechanisms underlying microbial influences on Drosophila 
 
 ## Interns  
   
-**Himani Joshi**  
-USDA SciNet Intern / PhD Student at Mississippi State University (Peixin Fan Laboratory)  
-Email: hj532@msstate.edu  
-<img src="https://github.com/user-attachments/assets/95eec39d-08c1-440b-be95-1763e6626896" width="250">  
-<br/>
-<br/>
+**Madison Frees**  
+USDA HACU Intern  
+<img src="https://github.com/user-attachments/assets/7cada8c9-febb-48b4-badf-28a05bbdf494" width="250">  
 <br/>
 
+**Skylar Griffith**  
+USDA Intern  
+<br/>
 
+**Anna Hermann**  
+USDA HACU Intern  
+<img src="https://github.com/user-attachments/assets/f26ab622-af97-4a46-a48e-59499002bc08" width="250">  
+<br/>
+<br/>
+<br/>
 
 ## Past Members  
   
@@ -104,6 +110,12 @@ Computational Research Intern
  **Alex Boyd**  
  Laboratory Assistant / Biochemistry student at University Of Missourri  
 <img src="https://github.com/user-attachments/assets/98fc0f24-b83d-4abd-9918-f68962fe42de" width="250">   
+<br/>
+
+**Himani Joshi**  
+USDA SciNet Intern / PhD Student at Mississippi State University (Peixin Fan Laboratory)  
+Email: hj532@msstate.edu  
+<img src="https://github.com/user-attachments/assets/95eec39d-08c1-440b-be95-1763e6626896" width="250">  
 <br/>
  
 **Joyce Marumo, PhD**  
