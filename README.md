@@ -84,6 +84,11 @@ USDA HACU Intern
 <img src="https://github.com/user-attachments/assets/7cada8c9-febb-48b4-badf-28a05bbdf494" width="250">  
 <br/>
 
+**Ava Gill**  
+USDA HACU Intern  
+<img src="https://github.com/user-attachments/assets/90e3a227-1469-41bc-b6ca-7c9fe65cd464" width="250">  
+<br/>
+
 **Skylar Griffith**  
 USDA Intern  
 <br/>
