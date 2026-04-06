@@ -80,22 +80,22 @@ My research focuses on mechanisms underlying microbial influences on Drosophila 
 ## Interns  
   
 **Madison Frees**  
-USDA HACU Intern  
+USDA HACU Intern / Undergraduate Student at the University of Missouri  
 <img src="https://github.com/user-attachments/assets/7cada8c9-febb-48b4-badf-28a05bbdf494" width="250">  
 <br/>
 
 **Ava Gill**  
-USDA HACU Intern  
+USDA HACU Intern / Undergraduate Student at the University of Missouri  
 <img src="https://github.com/user-attachments/assets/90e3a227-1469-41bc-b6ca-7c9fe65cd464" width="250">  
 <br/>
 
 **Skylar Griffith**  
-USDA Intern  
+USDA Intern / Undergraduate Student at the University of Missouri  
 <img src="https://github.com/user-attachments/assets/7047c2a1-caba-41e1-a1a9-d3006c1bbc20" width="250">  
 <br/>
 
 **Anna Hermann**  
-USDA HACU Intern  
+USDA HACU Intern / Undergraduate Student at the University of Missouri  
 <img src="https://github.com/user-attachments/assets/f26ab622-af97-4a46-a48e-59499002bc08" width="250">  
 <br/>
 <br/>
