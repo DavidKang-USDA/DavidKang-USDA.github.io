@@ -91,6 +91,7 @@ USDA HACU Intern
 
 **Skylar Griffith**  
 USDA Intern  
+<img src="https://github.com/user-attachments/assets/7047c2a1-caba-41e1-a1a9-d3006c1bbc20" width="250">  
 <br/>
 
 **Anna Hermann**  
