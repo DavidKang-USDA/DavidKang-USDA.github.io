@@ -1,4 +1,4 @@
-## Welcome to the USDA ARS BCIRL Insect Microbiome Laboratory!
+## Welcome to the USDA ARS BCIRL Insect Microbiome and Genetics Laboratory!
 
 The Kang laboratory is a part of the USDA Agricultural Research Service Biological Control of Insects Research Laboratory and is affiliated with the Division of Biological Sciences, Division of Plant Sciences and Technology, the Digital Agriculture Research Extension Center, and the Grape and Wine Institute at the University of Missouri. We investigate the utilization of novel genetic technologies as well as microbiomes in the control of insect pests. Our interests are 1) utilizing molecular and genetic tools to control insect pests, and 2) how environmental influences and within community interactions of microbiomes, host insect-microbe interactions, and their downstream impact on host immunity, metabolism, reproduction, and survival. We value team work, honest communication, and aim to foster an environment focused on the development and success of our trainees and students.
 
@@ -10,7 +10,7 @@ Our laboratory focuses on a multidisciplinary approach. First, we capture microb
 
 <br/>
 <br/>
-<img src="https://github.com/user-attachments/assets/46be7964-8e3b-41b4-9eb8-89ebf3b73f16" height="270"><img src="https://github.com/user-attachments/assets/2d61db6a-c60a-49e8-9721-f70437cbe816" height="270"><img src="https://github.com/user-attachments/assets/e2ed4b38-24c7-4d74-9bd7-ea07edd4af4e" height="270">
+<img src="https://github.com/user-attachments/assets/ab20fe82-7141-4a37-b57b-4064ffb69243" height="270"><img src="https://github.com/user-attachments/assets/2d61db6a-c60a-49e8-9721-f70437cbe816" height="270"><img src="https://github.com/user-attachments/assets/e2ed4b38-24c7-4d74-9bd7-ea07edd4af4e" height="270">
 <br/>
 <br/>
 <br/>  
@@ -207,3 +207,6 @@ Wynna Faye Elbert Award Recipient
 <img src="https://github.com/user-attachments/assets/5d590f08-8b07-4edd-a3a5-e5a0ae8f0aa2" height="200">
 <img src="https://github.com/user-attachments/assets/9d6d0b67-9292-4a97-b9fb-1a8748cfe6d3" height="200">
 <img src="https://github.com/user-attachments/assets/e2013d0b-1fe7-409c-bbba-d66a163d096b" height="200">
+<img src="https://github.com/user-attachments/assets/35589095-562b-44ad-b343-61c9e33dd78c" height="200">
+<img src="https://github.com/user-attachments/assets/28ba776f-68cd-4845-90f1-3dedf5ae30d6" height="200">
+
