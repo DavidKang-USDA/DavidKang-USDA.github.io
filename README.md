@@ -61,7 +61,11 @@ Email: Richard.Fandino@usda.gov
 My research focuses on developing a novel genetic tools towards the control of spotted lanternflies.
 <br/>
 
-<br/>
+**Kirtley Amos, PhD**  
+SciNET AI COE Postdoctoral Fellow  
+Co-advised with Dr. Paula Chen, Dr. Bethany Redel, Dr. Jacob Washburn, Dr. Norman Best, and Dr. Adam R. Rivers  
+<img src="https://github.com/user-attachments/assets/8e8842fe-e91b-47e7-ae19-b9a03f491841" width="250">   
+<br/> 
 <br/>
 <br/>
 
@@ -110,7 +114,7 @@ USDA HACU Intern / Undergraduate Student at the University of Missouri
 <br/>
 <br/>
 
-## Career Awareness Related Experience (CARES) Program  
+## Career Awareness Related Experience (CARE) Program  
 
 **Samantha Hopkins**  
 Rotary Club Speech Winner  
@@ -174,7 +178,7 @@ Laboratory Assistant / MS Student at Tennessee State University
 <br/>
 
 
-## Past Members - Career Awareness Related Experience (CARES) Program  
+## Past Members - Career Awareness Related Experience (CARE) Program  
 
  **Iris Ma**  
 Wynna Faye Elbert Award Recipient  
