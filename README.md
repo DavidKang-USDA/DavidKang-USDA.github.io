@@ -53,6 +53,15 @@ Email: Katharine.Eastman@usda.gov
 <img src="https://github.com/user-attachments/assets/2ea1454d-54b3-4906-9348-4f7beb83960a" width="250">  
 My research focuses on developing a bioinformatic-based platform that utilizes shotgun metagenome sequence data to create pan-genome assemblies.  
 <br/>
+
+**Richard (Rick) Fandino, PhD**  
+USDA Administrator Funded Postdoctoral Fellow (Gene Editing)  
+Email: Richard.Fandino@usda.gov  
+<img src="https://github.com/user-attachments/assets/90bdf43d-c31a-4e41-9ee8-4a4d59f7969e" width="250">  
+My research focuses on developing a novel genetic tools towards the control of spotted lanternflies.
+<br/>
+
+<br/>
 <br/>
 <br/>
 
@@ -99,6 +108,18 @@ USDA HACU Intern / Undergraduate Student at the University of Missouri
 <img src="https://github.com/user-attachments/assets/f26ab622-af97-4a46-a48e-59499002bc08" width="250">  
 <br/>
 <br/>
+<br/>
+
+## Career Awareness Related Experience (CARES) Program  
+
+**Samantha Hopkins**  
+Rotary Club Speech Winner  
+<img src="https://github.com/user-attachments/assets/613711f8-ae20-4f44-a330-fa11795d7db5" width="250">  
+<br/>
+
+**Owen Terry**  
+Wynna Faye Elbert Award Recipient  
+<img src="https://github.com/user-attachments/assets/cacf8b8f-f628-4c5e-a454-6a69ffcf66d4" width="250">  
 <br/>
 
 ## Past Members  
@@ -166,11 +187,6 @@ Wynna Faye Elbert Award Recipient
 
 **Christian Fair**  
 <img src="https://github.com/user-attachments/assets/699bd4c7-f2f3-48ca-9075-4456de80d86d" width="250">   
-<br/>
-
-**Owen Terry**  
-Wynna Faye Elbert Award Recipient  
-<img src="https://github.com/user-attachments/assets/cacf8b8f-f628-4c5e-a454-6a69ffcf66d4" width="250">  
 <br/>
 <br/>
 <br/>
