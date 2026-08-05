@@ -58,7 +58,7 @@ My research focuses on developing a bioinformatic-based platform that utilizes s
 USDA Administrator Funded Postdoctoral Fellow (Gene Editing)  
 Email: Richard.Fandino@usda.gov  
 <img src="https://github.com/user-attachments/assets/90bdf43d-c31a-4e41-9ee8-4a4d59f7969e" width="250">  
-My research focuses on developing a novel genetic tools towards the control of spotted lanternflies.  
+My research focuses on developing novel genetic tools towards the control of spotted lanternflies.  
 <br/>
 
 **Kirtley Amos, PhD**  
